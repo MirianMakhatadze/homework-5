@@ -1,0 +1,141 @@
+.headline1 {
+	font-size: 14px;
+	color: #5863F8;
+	margin-top: 82px;
+	font-weight: bold;
+
+}
+.headline2 {
+	font-size: 42px;
+	font-weight: 900;
+	margin-bottom: 54px;
+	width: 422px;
+	height: 112px;
+}
+.div1 {
+	display: inline-block;
+	background: #F8F8F8;
+	width: 536px;
+	height: 190px;
+	margin-bottom: 102px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #707070;
+}
+.div1-div {
+	display: inline-block;
+	vertical-align: top;
+}
+.div2-margin {
+/*	 margin: 0px 115px 102px 0px;*/
+	 background: #BE2B2B;
+}
+.top-img {
+	width: 168px;
+	height: 190px;
+}
+.div1-text1 {
+	font-size: 14px;
+	color: #5863F8;
+	text-align: left;
+	padding-top: 37px;
+	margin: 0px 0px 1px 16px;
+	
+}
+.div1-text2 {
+	font-size: 18px;
+	text-align: left;
+	margin: 0px 0px 11px 16px;
+}
+.div1-text3 {
+	font-size: 14px;
+	width: 260px;
+	height: 62px;
+	text-align: left;
+	margin: 0px 0px 0px 16px;
+	color: #B1B1B1;
+}
+.container-block {
+	width: 1088px;
+	margin: 0 auto;
+}
+.margin {
+	margin-left: 16px;
+	background:#BE2B2B;
+}
+
+/*SECOND SECTION*/
+
+.div2 {
+	display: inline-block;
+	background: #F8F8F8;
+	width: 352px;
+	height: 212px;
+	margin-bottom:302p ;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #707070;
+}
+.div2-margin {
+	margin-right: 16px;
+	margin-left:16px;
+}
+.div2-div {
+	display: inline-block;
+	width: 352px;
+	height: 148px;
+	background: #F8F8F8;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #707070;
+	border-top: none;
+	vertical-align: top;
+}
+.div2-text1 {
+	font-size: 12px;
+	color: #5863F8;
+	text-align: center;
+	padding: 0px 124px;
+	margin: 23px 0px 6px 0px;
+}
+.div2-text2 {
+	font-size: 18px;
+	text-align: center;
+	padding: 0px 79px;
+	margin-bottom: 11px;
+}
+.div2-text3 {
+	font-size: 14px;
+	width: 306px;
+	height: 42px;
+	text-align: center;
+	line-break: 19px;
+	padding-left: 90px;
+	padding-right: 46px;
+	color: #B1B1B1;
+}
+.section2 {
+	padding-bottom: 302 px;
+}
+.bottom {
+	height:560px;
+	margin-bottom:154px;
+
+}
+/*ქართული ფონტები*/
+.text-font1 {
+	font-family: "ALK Tall Mtavruli", sans-serif;
+	font-size: 20px;
+}
+.text-font1rel {
+	font-family: 'ALK Life';
+}
+/*LATIN FONTS*/
+.text-font2 {
+ 	font-family: 'Poppins', sans-serif;
+
+}
+.text-font2rel {
+	 font-family: 'Dancing Script';
+	 font-size: 17px;
+}
